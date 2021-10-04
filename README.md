@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/bhokin/demo-pyci.svg?branch=master)](https://app.travis-ci.com/bhokin/demo-pyci.svg?branch=main)
+
 Continuous Integration Demo
 ============================
 
