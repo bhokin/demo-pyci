@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/bhokin/demo-pyci.svg?branch=master)](https://app.travis-ci.com/bhokin/demo-pyci.svg?branch=main)
+[![Build Status](https://app.travis-ci.com/bhokin/demo-pyci.svg?branch=main)](https://travis-ci.com/bhokin/demo-pyci)
 
 Continuous Integration Demo
 ============================
